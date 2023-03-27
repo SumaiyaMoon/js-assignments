@@ -1,0 +1,10 @@
+.h1js{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+h1{
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(7, 78, 50) !important;
+    border-radius: 10% !important;
+}
